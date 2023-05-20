@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Numan!</h1>
 <h3 align="center">A passionate full stack Data Scientist from Qatar</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
+
 - 🔭 I’m currently working on **Data Science, Data Engineering, Machine Learning & Deep Learning**
 
-- 🌱 I’m still Learning **AI, ML, DL & DE**
+- 🌱 I’m still exploring: **AI, ML, DL & DE**
 
 - 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
 
 - 👨‍💻 All of my projects Tutorials are available at: [https://www.youtube.com/@nomiaiproduction3754](https://www.youtube.com/@nomiaiproduction3754)
 
-- 📝 I regularly write articles on [Medium](Medium)
+- 📝 I regularly write articles on: [Medium](Medium)
 
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me anything on whatsapp: **+923483282236**
 
-- 📫 How to reach me **numanhusain69@gmail.com**
+- 📫 Reach me through: **numanhusain69@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1td4tLy01SO_cDNBU-tVunG-PVxWZWxWZ/view?usp=share_link](https://drive.google.com/file/d/1td4tLy01SO_cDNBU-tVunG-PVxWZWxWZ/view?usp=share_link)
+- 📄 My Resume: [https://bit.ly/3OqTToc])
 
-- ⚡ Fun fact **I can learn new skills with the curiosity of a playful child discovering a world of wonders.**
+- ⚡ Fun fact: **I can learn new skills with the curiosity of a playful child discovering a world of wonders.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
