@@ -21,9 +21,13 @@
 - ⚡ Fun fact: **I can learn new skills with the curiosity of a playful child discovering a world of wonders.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/numan-khan-97ab7a209/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/numan-khan-97ab7a209/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@nomiaiproduction3754" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@nomiaiproduction3754" height="30" width="40" /></a>
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](YOUR_YOUTUBE_CHANNEL_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_PROFILE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](YOUR_LINKEDIN_PROFILE_URL)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_PROFILE_URL)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](YOUR_FACEBOOK_PROFILE_URL)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
