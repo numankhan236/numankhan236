@@ -16,7 +16,8 @@
 
 - 📫 Reach me through: **numanhusain69@gmail.com**
 
-- 📄 My Resume: [https://bit.ly/3OqTToc])
+- 📄 My Experiences <br>
+      [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://bit.ly/3OqTToc)
 
 - ⚡ Fun fact: **I can learn new skills with the curiosity of a playful child discovering a world of wonders.**
 
@@ -24,9 +25,10 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@nomiaiproduction3754)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/numan-khan-97ab7a209/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](YOUR_TWITTER_PROFILE_URL)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/nomikhan03)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/nomiintelligence/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](YOUR_INSTAGRAM_PROFILE_URL)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](YOUR_FACEBOOK_PROFILE_URL)
+
 
 </p>
 
