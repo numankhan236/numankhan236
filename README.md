@@ -17,7 +17,7 @@
 - 📫 Reach me through: **numanhusain69@gmail.com**
 
 - 📄 My Experiences <br>
-      [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=Adobe%20Acronbat%20Reader&logoColor=white)](https://bit.ly/3OqTToc)
+      [![Resume](https://img.shields.io/badge/Resume-%2300n0000.svg?style=for-the-badge&logo=Adobe%20Acronbat%20Reader&logoColor=white)](https://bit.ly/3OqTToc)
 
 - ⚡ Fun fact: **I can learn new skills with the curiosity of a playful child discovering a world of wonders.**
 
