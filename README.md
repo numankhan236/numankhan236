@@ -10,12 +10,11 @@
 
 - 👨‍💻 All of my projects Tutorials are available at: [https://www.youtube.com/@nomiaiproduction3754](https://www.youtube.com/@nomiaiproduction3754)
 
-- 📝 I regularly write articles on: [Medium](Medium)
+- 📝 Here's my Website & Portfolio: [Website](https://numankhan236.github.io/)
 
 - 💬 Ask me anything on whatsapp: **+974 71237893**
 
 - 📫 Reach me through: **numanhusain69@gmail.com**
-- My Website: **https://numankhan236.github.io/**
 
 - 📄 My Experiences <br>
       [![Resume](https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)](https://bit.ly/3OqTToc)
