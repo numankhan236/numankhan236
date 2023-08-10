@@ -2,17 +2,17 @@
 <h3 align="center">A passionate full stack Data Scientist from Qatar</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on **Data Science, Data Engineering, Machine Learning & Deep Learning**
+- 🔭 I’m currently working on **Data Analytics, Data Science, Data Engineering, Machine Learning & Deep Learning**
 
 - 🌱 I’m still exploring: **AI, ML, DL & DE**
 
-- 👯 I’m looking to collaborate on **Data Science and Machine Learning Projects**
+- 👯 I’m looking to collaborate on **Data Analytics and Machine Learning Projects**
 
 - 👨‍💻 All of my projects Tutorials are available at: [https://www.youtube.com/@nomiaiproduction3754](https://www.youtube.com/@nomiaiproduction3754)
 
 - 📝 I regularly write articles on: [Medium](Medium)
 
-- 💬 Ask me anything on whatsapp: **+923483282236**
+- 💬 Ask me anything on whatsapp: **+974 71237893**
 
 - 📫 Reach me through: **numanhusain69@gmail.com**
 
