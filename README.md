@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics and Machine Learning Projects**
 
-- 👨‍💻 All of my projects Tutorials are available at: [https://numankhan236.github.io/)
+- 👨‍💻 All of my projects Tutorials are available at: https://numankhan236.github.io/
 
 - 📝 Here's my Website & Portfolio: [Website](https://numankhan236.github.io/)
 
